@@ -1,4 +1,5 @@
 .DS_Store
+.gitignore
 HowTo Add Jobs To cron Under Linux or UNIX?.webarchive
 tweet.rtf
 tweepy/
