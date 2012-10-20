@@ -7,6 +7,8 @@ https://github.com/tweepy/tweepy/
 And, that you get your own access tokens.
 https://dev.twitter.com
 
+Unicode information.
+https://dev.twitter.com/docs/counting-characters
 
 ::WIKI::
 
