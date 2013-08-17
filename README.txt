@@ -15,6 +15,9 @@ https://dev.twitter.com/docs/counting-characters
 Single letters that cannot be tweeted:
 D, F, G, L, M, S, W (there may be others)
 
+Two character combinations:
+/n
+
 Single letter commands:
 @username message
 #topic
